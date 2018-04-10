@@ -1,7 +1,7 @@
 # BTBC
 BTBC Token on ETH.
 1.  name    BTBC string
-2.  totalSupply    1000000000000000000000000000 uint256
+2.  totalSupply    1000000000 uint256
 3.  decimals    18 uint8
 4.  version    H0.1 string
 5.  balanceOf   
