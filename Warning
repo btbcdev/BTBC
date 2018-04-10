@@ -1,0 +1,6 @@
+ Warning: 
+ The compiled contract might be susceptible to ZeroFunctionSelector (very low-severity), DelegateCallReturnValue (low-severity), 
+ ECRecoverMalformedInput (medium-severity), SkipEmptyStringLiteral (low-severity), ConstantOptimizerSubtraction (low-severity), 
+ IdentityPrecompileReturnIgnored (low-severity), HighOrderByteCleanStorage (high-severity), OptimizerStaleKnowledgeAboutSHA3 
+ (medium-severity), SendFailsForZeroEther (low-severity), DynamicAllocationInfiniteLoop (low-severity), 
+ OptimizerClearStateOnCodePathJoin (low-severity) Solidity compiler bugs.
